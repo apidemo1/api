@@ -9,7 +9,7 @@
 
 
 
-##[请求路径]
+## [请求路径]
 
  中心柜台 : requestUrl = https://sit1-globalapi.bithumb.me/api/request
  欧洲柜台   : requestUrl = https://sit1-euroapi.bithumb.me//api/request
